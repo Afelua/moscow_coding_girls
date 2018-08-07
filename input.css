@@ -1,0 +1,14 @@
+.input, .button{
+  width: 300px;
+  font-size: 48px;
+  border: 1px solid black;
+}
+
+.input{
+  padding: 30px;
+  height: 40px;
+}
+.button{
+  background: yellow;
+  height: 100px;
+}
